@@ -42,7 +42,14 @@ form input{
 form .equal{
     width: 110px;
     padding: 0;
-    background-color: rgb(5, 209, 249);
+    background-color: #FBF8EF;
   
 
+}
+.button input{
+    background-color: #B4EBE6;
+}
+.button .Ac{
+    background-color: #FFB433;
+    color: white;
 }
